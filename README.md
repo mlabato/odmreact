@@ -1,5 +1,5 @@
 # odmreact
-Front End for e-commerce website "Outlet de Mates"
+Front End service for e-commerce website "Outlet de Mates"
 
 After finishing my Full Stack Developer studies at Digital House I was excited about giving my first steps as a web developer, so I contacted an instagram entepreneur, Nicolas, and I proposed him to develop an e-commerce for his business.
 
@@ -14,6 +14,11 @@ After getting in touch with Nicolas' commercial needs, I started this project wi
 EXTRA LIBRARIES
 - Tailwind CSS
 - React-Router-dom
+
+TO DO LIST
+- Search bar
+- Cart
+- Login Authentication and session management for admin Dashboard
 
 
 Back-end repository is hosted on https://github.com/mlabato/odmexpress:
