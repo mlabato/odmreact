@@ -13,6 +13,7 @@ After getting in touch with Nicolas' commercial needs, I started this project wi
 
 EXTRA LIBRARIES
 - Tailwind CSS
+- React-Router-dom
 
 
 Back-end repository is hosted on https://github.com/mlabato/odmexpress:
