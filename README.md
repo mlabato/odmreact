@@ -11,6 +11,9 @@ After getting in touch with Nicolas' commercial needs, I started this project wi
 - Home, product categories, product sales and product details pages
 - Admin dashboard with CRUD for products and user administration (add, delete, edit)
 
+FRAMEWORK
+- React
+
 EXTRA LIBRARIES
 - Tailwind CSS
 - React-Router-dom
